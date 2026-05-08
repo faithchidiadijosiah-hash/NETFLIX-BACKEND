@@ -102,4 +102,4 @@ jobs:
               -p 8080:8080 \
               ${{ secrets.DOCKERHUB_USERNAME }}/netflix-backend:latest
 
-            echo "✅ Deployment successful!"
+            echo "✅ Deployment successful
